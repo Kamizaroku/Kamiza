@@ -1,7 +1,7 @@
 # Kamiza
-# 🌙 Dream Mailer – Email to SMS Sender via SMTP
+# 🌙 KAMIZA Mailer – Email to SMS Sender via SMTP
 
-**Dream Mailer** is a lightweight Python-based tool that allows you to send **SMS messages via Email (SMTP)** using a simple and elegant **HTML user interface**.
+**KAMIZA MAILR** is a lightweight Python-based tool that allows you to send **SMS messages via Email (SMTP)** using a simple and elegant **HTML user interface**.
 
 Perfect for ethical hackers, sysadmins, and IT professionals who need to push alerts, messages, or OTPs over SMS through carrier gateways.
 

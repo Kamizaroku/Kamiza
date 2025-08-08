@@ -23,8 +23,7 @@ Perfect for ethical hackers, sysadmins, and IT professionals who need to push al
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/dream-mailer.git
-   cd dream-mailer
+   git clone https://github.com/Kamizaroku/Kamiza.git
    
 2. Create virtual environment (optional but recommended):
 

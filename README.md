@@ -1,5 +1,5 @@
 # Kamiza
-# 🌙 KAMIZA Mailer – Email to SMS Sender via SMTP
+# 🌙 KAMIZA Mailer 1.0 – Email to SMS Sender via SMTP
 
 **KAMIZA MAILR** is a lightweight Python-based tool that allows you to send **SMS messages via Email (SMTP)** using a simple and elegant **HTML user interface**.
 
